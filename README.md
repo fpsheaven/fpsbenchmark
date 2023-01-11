@@ -3,6 +3,10 @@ Benchmark your CSGO frames via this tool. Massive thank you to MrMaxim https://w
 
 
 Download the ZIP from github and paste the "csgo" folder inside your CSGO directory.
-Mine is "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive" 
-Open console and type "map de_ancient"
-Then,type "exec benchmark" and lastly "benchmark". The test lasts approx 1min,so be patient.
+
+Mine for example is "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive" 
+
+Then,open console and type "map de_ancient"
+
+Lastly,type "exec benchmark" and then "benchmark". The test lasts approx 1min,so be patient.
+
