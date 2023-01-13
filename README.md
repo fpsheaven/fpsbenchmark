@@ -6,7 +6,7 @@ Download the ZIP from github and paste the "csgo" folder inside your CSGO direct
 
 Mine for example is "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive" 
 
-Then,open console and type "map de_ancient"
+Then,open console and type "map de_ancient or map de_anubis"
 
 Lastly,type "exec benchmark" and then "benchmark". The test lasts approx 1min,so be patient.
 
