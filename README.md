@@ -11,3 +11,6 @@ Then,open console and type "map de_ancient or map de_anubis"
 Lastly,type "exec benchmark" and then "benchmark". The test lasts approx 1min,so be patient.
 
 ![2023-02-01 14-38-49](https://user-images.githubusercontent.com/58235292/216045343-66eafcf7-e377-415c-83f1-44fd93604bbb.gif)
+
+
+NOTE! CFG MESSUP CAUSED MODELS NOT SHOWING UP. WILL BE UPDATED!
